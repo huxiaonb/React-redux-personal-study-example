@@ -40,3 +40,4 @@ Footer.propTypes = {
         'SHOW_ACTIVE'
     ]).isRequired
 }
+
